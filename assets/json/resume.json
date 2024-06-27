@@ -36,6 +36,30 @@
       "Built Python models for binary/multilabel classification tasks with their accompanying performance metrics, and created insightful visuals for presentations",
       "Experienced technical speaker in dozens of customer and internal meetings",
       "Designed and performed lab experiments related to free-space and fiber optics as well as operating RF analyzers/signal generators"]
+    },
+    {
+      "name": "NASA Glenn Research Center (GRC)",
+      "position": "Quantum Communications Intern",
+      "url": "",
+      "startDate": "June-2020",
+      "endDate": "August-2021",
+      "summary": "Interned with the NASA's Quantum Communications Group for 2 summers during the pandemic",
+      "highlights": ["Built multiple MATLAB models to simulate the statistical efficiency of electro‑optical devices for entangled photon generation, as well as to use these models to simulate the generation of optical frequency combs",
+      "Published whitepapers and presented research results at the NASA Quantum Information Science Conference and to NASA leadership",
+      "Collaborated with teams of NASA researchers, interns, and even astronauts across multiple centers"]
+    },
+    {
+      "name": "University of Alabama in Huntsville, Dept. of Physics",
+      "position": "Graduate Teaching/Research Assistant",
+      "url": "",
+      "startDate": "June-2020",
+      "endDate": "August-2021",
+      "summary": "Interned with the NASA's Quantum Communications Group for 2 summers during the pandemic",
+      "highlights": ["Taught 10 physics lab courses, mentoring and collaborating with hundreds of students, and enhancing their understanding and application of physics concepts and analysis",
+      "Applied research and academic knowledge to successfully capture funding to perform a quantum optics research project",
+      "Prepared experiments using optical lab skills such as free‑space alignment; manipulating optical polarization; beam focusing; generating diffraction patterns with gratings and spatial light modulators, and building various interferometers",
+      "Led scientific outreach events at 2 North Alabama Regional Science Olympiads",
+      "Passed the UAH Physics Comprehension Examination at the Ph.D. level"]
     }
   ],
   "volunteer": [

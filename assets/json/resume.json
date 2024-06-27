@@ -29,8 +29,13 @@
       "url": "",
       "startDate": "June-2022",
       "endDate": "default",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."]
+      "summary": "Quantum Engineering Center; AI/ML Restricted Space Program; Space Payloads Project",
+      "highlights": ["Secured 1 patent submission and 3 Engineering Excellence awards",
+      "Worked in a diverse set of projects spanning satellite communications data analysis, Rydberg atom sensor technology, and RF test and integration of satellite payloads",
+      "Written and maintained repositories of 100+ Python and MATLAB scripts for data processing, machine learning, and data visualization tasks",
+      "Built Python models for binary/multilabel classification tasks with their accompanying performance metrics, and created insightful visuals for presentations",
+      "Experienced technical speaker in dozens of customer and internal meetings",
+      "Designed and performed lab experiments related to free-space and fiber optics as well as operating RF analyzers/signal generators"]
     }
   ],
   "volunteer": [

@@ -15,10 +15,11 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | first | append: ' ' | append: content.startDate | split: '-' | last %}
-            {% assign startDate = content.startDate | split: '-' | first | append: ' ' | append: content.startDate | split: '-' | last %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+            {% assign startDateParts = content.startDate | split: '-' %}
+            {% assign endDateParts = content.endDate | split: '-' %}
+            {% assign startDate = startDateParts[0] | append: ' ' | append: startDateParts[1] %}
+            {% assign endDate = endDateParts[0] | append: ' ' | append: endDateParts[1] %}
+            {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}
             {% assign date = '' %}
           {% endif %}

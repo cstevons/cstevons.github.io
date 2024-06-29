@@ -3,8 +3,33 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.date %} {% assign date = content.date | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
+          {% if content.date %}
+            {% assign dateParts = content.date | split: '-' %}
+            {% assign date = dateParts[0] | append: ' ' | append: dateParts[1] %}
+          {% else %}
+            {% assign date = '' %}
+          {% endif %}
           <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+          {% if content.location %}
+            <tr>
+              <td>
+                <p class="location">
+                  <i class="fa-solid fa-location-dot iconlocation"></i>
+                  {{ content.location }}
+                </p>
+              </td>
+            </tr>
+          {% endif %}
+          {% if content.logo %}
+            <tr>
+              <td>
+                {% assign logo_image_path = content.logo | prepend: 'assets/img/' %}
+                {% assign logo_image_class = 'img-fluid rounded custom-logo-size-cv align-logo-left' %}
+                {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+                {% include figure.liquid loading="eager" path=logo_image_path class=logo_image_class sizes=sizes alt=content.logo %}
+              </td>
+            </tr>
+          {% endif %}
         </div>
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">

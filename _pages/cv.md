@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: Resume_Conner_Stevons.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Thanks for checking out my CV! Below is a web-friendly version of my experiences. For a PDF-equivalent version of my CV, click on the PDF icon on the right-hand side.
 toc:
   sidebar: left
 ---

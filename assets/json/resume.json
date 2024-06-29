@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Conner Stevons",
-    "label": "Data Scientist and Physicist",
+    "label": "Physicist/Electrical Engineer",
     "image": "juggling_apples.JPEG",
     "email": "cstevons@umich.edu",
     "phone": "(248) 980-8249",
-    "url": "https://cstevons.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "LinkedIn": "https://www.linkedin.com/in/conner-stevons/",
+    "summary": "My technical background lies in <strong>physics</strong> and <strong>electrical engineering</strong>, with a focus on quantum physics and optics. My educational journey was driven by a genuine interest in fundamental science, fueled by a <strong>deep passion for learning and tackling complex concepts</strong> that explain the world around us. As I transitioned into the workforce, I discovered a strong passion for data science, particularly in <strong>machine and deep learning</strong>. I have quickly established a solid foundation in this field by developing and measuring the performance of classic supervised and unsupervised machine learning models in my current position at General Dynamics Mission Systems. This evolving interest has inspired me to pursue a career in machine learning and further my education by <strong>applying for Ph.D. programs in Fall 2024</strong>.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "cstevons",
+        "url": ""
       }
     ]
   },
@@ -90,7 +90,9 @@
       "startDate": "Aug.-2020",
       "endDate": "Dec.-2021",
       "score": "10",
-      "courses": ["Theory of Relativity"],
+      "courses": ["<b>GPA</b>: 3.63/4.00",
+      "<b>Concurrent Activities</b>: Academic grader; 1 Summer Internship with NASA Glenn Research Center; Temporary Research Assitant at the School of Information",
+      "<b>Courses Taken</b>: Machine/Deep Learning, Nonlinear Optics, Optical Waves through Crystals, Quantum Optics, Applied Quantum Mechanics, Electron Microscopy, Lasers, Adv. Lasers Lab, Semiconductor Lasers and LEDs, Classical Optics"],
       "logo": "michigan-logo.jpg"
     },
     {
@@ -102,7 +104,9 @@
       "startDate": "Aug.-2017",
       "endDate": "Dec.-2019",
       "score": "10",
-      "courses": ["Theory of Relativity"],
+      "courses": ["<b>GPA</b>: 3.83/4.00",
+      "<b>Concurrent Activities</b>: Graduate Teaching and Research Assistant; 1 Summer Internship with NASA Glenn Research Center",
+      "<b>Courses Taken</b>: Statistical Mechanics, Fourier Optics, Classical Mechanics, Quantum Mechanics, Mathematical & Statistical Methods, Partial Differential Equations, Laser Physics, Lasers Lab, Physical Optics, Light Scattering by Particles, General Relativity"],
       "logo": "uah-logo.png"
     },
     {
@@ -114,17 +118,47 @@
       "startDate": "Aug.-2013",
       "endDate": "Apr.-2017",
       "score": "10",
-      "courses": ["Theory of Relativity"],
+      "courses": ["<b>GPA</b>: 3.86/4.00",
+      "Graduated with <i>honors</i> status and <i>Summa Cum Laude</i>"],
       "logo": "adrian-logo.png"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Eagle Scout",
+      "date": "May-2013",
+      "location": "Auburn Hills, MI",
+      "awarder": "<strong>Boy Scouts of America, <i>Troop 360</i></strong>",
+      "url": "https://www.scouting.org/about/research/eagle-scouts/",
+      "summary": "The highest achievable rank in the Boy Scouts. Eagle Scouts demonstrate elevated abilities in leadership, service, and preparedness in their line of work and local community. My Eagle Scout project was beautifying the grounds of a local church via planting 5, 300-lb trees and extensive mulching.",
+      "logo": "eagle-scout-logo.png"
+    },
+    {
+      "title": "Engineering Excellence at GDMS",
+      "date": "2022-2014",
+      "location": "Scottsdale, AZ",
+      "awarder": "<strong>General Dynamics Mission Systems</strong>",
+      "url": "https://gdmissionsystems.com/about-us/major-locations/scottsdale",
+      "summary": "Awarded <b>1 patent</b> and <b>3 Engineering Excellence Awards</b>. These awards are given out to engineers that display outstanding abilities and promise in their respective programs/projects.",
+      "logo": "gdms-logo.png"
+    },
+    {
+      "title": "Wacker Silicones Chemistry Award",
+      "date": "Apr-2015",
+      "location": "Adrian, MI",
+      "awarder": "<strong>Wacker & Adrian College</strong>",
+      "url": "",
+      "summary": "Awarded to an outstanding student in organic chemistry",
+      "logo": "adrian-logo.png"
+    },
+    {
+      "title": "Academic All American",
+      "date": "2013-2017",
+      "location": "Adrian, MI",
+      "awarder": "<strong>National Collegiate Athletic Association</strong>",
+      "url": "",
+      "summary": "Honoring outstanding academic and athletic achievement by student-athletes",
+      "logo": "ncaa-logo.jpg"
     }
   ],
   "certificates": [

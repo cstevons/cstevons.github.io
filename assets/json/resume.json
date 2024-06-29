@@ -26,40 +26,46 @@
     {
       "name": "General Dynamics Mission Systems",
       "position": "Sr. Data Scientist/Electrical Engineer",
+      "location": "Scottsdale, AZ",
       "url": "",
-      "startDate": "June-2022",
+      "startDate": "Jun.-2022",
       "endDate": "PRESENT",
       "summary": "Quantum Engineering Center; AI/ML Restricted Space Program; Space Payloads Project",
       "highlights": ["Secured 1 patent submission and 3 Engineering Excellence awards",
-      "Worked in a diverse set of projects spanning satellite communications data analysis, Rydberg atom sensor technology, and RF test and integration of satellite payloads",
       "Written and maintained repositories of 100+ Python and MATLAB scripts for data processing, machine learning, and data visualization tasks",
-      "Built Python models for binary/multilabel classification tasks with their accompanying performance metrics, and created insightful visuals for presentations",
-      "Experienced technical speaker in dozens of customer and internal meetings",
-      "Designed and performed lab experiments related to free-space and fiber optics as well as operating RF analyzers/signal generators"]
+      "Developed Python AI/ML models for clustering and classification tasks with accompanying performance metrics/visualizations",
+      "Experienced technical speaker in dozens of customer and internal presentations",
+      "Designed and performed lab experiments for Rydberg Atom RF sensors as well as fiber-based quantum communications technology"],
+      "logo": "gdms-logo.png"
     },
     {
       "name": "NASA Glenn Research Center (GRC)",
       "position": "Quantum Communications Intern",
+      "location": "Cleveland, OH",
       "url": "",
-      "startDate": "June-2020",
-      "endDate": "August-2021",
+      "startDate": "Jun.-2020",
+      "endDate": "Aug.-2021",
       "summary": "Interned with the NASA's Quantum Communications Group for 2 summers during the pandemic",
-      "highlights": ["Built multiple MATLAB models to simulate the statistical efficiency of electro‑optical devices for entangled photon generation, as well as to use these models to simulate the generation of optical frequency combs",
+      "highlights": ["Developed MATLAB code to model the efficiency of electro‑optical devices for entangled photon generation",
+      "Simulated and designed an interactive optical frequency comb generator in MATLAB, with the assumption of CW laser light",
       "Published whitepapers and presented research results at the NASA Quantum Information Science Conference and to NASA leadership",
-      "Collaborated with teams of NASA researchers, interns, and even astronauts across multiple centers"]
+      "Collaborated with teams of NASA researchers, interns, and even astronauts across multiple centers"],
+      "logo": "nasa-logo.webp"
     },
     {
       "name": "University of Alabama in Huntsville, Dept. of Physics",
       "position": "Graduate Teaching/Research Assistant",
+      "location": "Huntsville, AL",
       "url": "",
-      "startDate": "June-2020",
-      "endDate": "August-2021",
+      "startDate": "Jun.-2017",
+      "endDate": "May-2020",
       "summary": "Interned with the NASA's Quantum Communications Group for 2 summers during the pandemic",
       "highlights": ["Taught 10 physics lab courses, mentoring and collaborating with hundreds of students, and enhancing their understanding and application of physics concepts and analysis",
       "Applied research and academic knowledge to successfully capture funding to perform a quantum optics research project",
-      "Prepared experiments using optical lab skills such as free‑space alignment; manipulating optical polarization; beam focusing; generating diffraction patterns with gratings and spatial light modulators, and building various interferometers",
-      "Led scientific outreach events at 2 North Alabama Regional Science Olympiads",
-      "Passed the UAH Physics Comprehension Examination at the Ph.D. level"]
+      "Led scientific outreach events at 2 North Alabama Regional Science Olympiads for middle and high school students",
+      "Passed the UAH Physics Comprehension Examination at the Ph.D. level",
+      "Prepared experiments using optical lab skills such as free‑space alignment; manipulating optical polarization; beam focusing; generating diffraction patterns with gratings and spatial light modulators, and building various interferometers"],
+      "logo": "uah-logo.png"
     }
   ],
   "volunteer": [
@@ -76,15 +82,40 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "url": "https://eecs.engin.umich.edu/",
+      "area": "Optics & Photonics",
+      "studyType": "M.S. Electrical and Computer Engineering",
+      "startDate": "Aug.-2020",
+      "endDate": "Dec.-2021",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Theory of Relativity"],
+      "logo": "michigan-logo.jpg"
+    },
+    {
+      "institution": "University of Alabama in Huntsville",
+      "location": "Huntsville, AL",
+      "url": "https://www.uah.edu/science/departments/physics",
+      "area": "",
+      "studyType": "M.S. Phsyics",
+      "startDate": "Aug.-2017",
+      "endDate": "Dec.-2019",
+      "score": "10",
+      "courses": ["Theory of Relativity"],
+      "logo": "uah-logo.png"
+    },
+    {
+      "institution": "Adrian College",
+      "location": "Adrian, MI",
+      "url": "https://www.adrian.edu/",
+      "area": "Minor in Mathematics",
+      "studyType": "B.S. Physics, B.S. Chemistry",
+      "startDate": "Aug.-2013",
+      "endDate": "Apr.-2017",
+      "score": "10",
+      "courses": ["Theory of Relativity"],
+      "logo": "adrian-logo.png"
     }
   ],
   "awards": [

@@ -22,6 +22,49 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "url": "https://eecs.engin.umich.edu/",
+      "area": "Optics & Photonics",
+      "studyType": "M.S. Electrical and Computer Engineering",
+      "startDate": "Aug.-2020",
+      "endDate": "Dec.-2021",
+      "score": "10",
+      "courses": ["<b>GPA</b>: 3.63/4.00",
+      "<b>Concurrent Activities</b>: Academic grader; 1 Summer Internship with NASA Glenn Research Center; Temporary Research Assitant at the School of Information",
+      "<b>Courses Taken</b>: Machine/Deep Learning, Nonlinear Optics, Optical Waves through Crystals, Quantum Optics, Applied Quantum Mechanics, Electron Microscopy, Lasers, Adv. Lasers Lab, Semiconductor Lasers and LEDs, Classical Optics"],
+      "logo": "michigan-logo.jpg"
+    },
+    {
+      "institution": "University of Alabama in Huntsville",
+      "location": "Huntsville, AL",
+      "url": "https://www.uah.edu/science/departments/physics",
+      "area": "",
+      "studyType": "M.S. Phsyics",
+      "startDate": "Aug.-2017",
+      "endDate": "Dec.-2019",
+      "score": "10",
+      "courses": ["<b>GPA</b>: 3.83/4.00",
+      "<b>Concurrent Activities</b>: Graduate Teaching and Research Assistant; 1 Summer Internship with NASA Glenn Research Center",
+      "<b>Courses Taken</b>: Statistical Mechanics, Fourier Optics, Classical Mechanics, Quantum Mechanics, Mathematical & Statistical Methods, Partial Differential Equations, Laser Physics, Lasers Lab, Physical Optics, Light Scattering by Particles, General Relativity"],
+      "logo": "uah-logo.png"
+    },
+    {
+      "institution": "Adrian College",
+      "location": "Adrian, MI",
+      "url": "https://www.adrian.edu/",
+      "area": "Minor in Mathematics",
+      "studyType": "B.S. Physics, B.S. Chemistry",
+      "startDate": "Aug.-2013",
+      "endDate": "Apr.-2017",
+      "score": "10",
+      "courses": ["<b>GPA</b>: 3.86/4.00",
+      "Graduated with <i>honors</i> status and <i>Summa Cum Laude</i>"],
+      "logo": "adrian-logo.png"
+    }
+  ],
   "work": [
     {
       "name": "General Dynamics Mission Systems",
@@ -68,61 +111,30 @@
       "logo": "uah-logo.png"
     }
   ],
-  "recent volunteering": [
+  "skills": [
     {
-      "organization": "Special Olympics Arizona",
-      "location": "Phoenix, AZ",
-      "position": "Volunteer with Fit Feet",
-      "url": "https://specialolympicsarizona.org/",
-      "startDate": "Aug.-2022",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Assisted the Arizona College of Podiatric Medicine in conducting foot and ankle health screenings during athletic events throughout each year",
-      "Guided podiatry student volunteers in effectively communicating with individuals with intellectual and developmental disabilities (IDD)"],
-      "logo": "special-olympics-logo.webp"
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Michigan",
-      "location": "Ann Arbor, MI",
-      "url": "https://eecs.engin.umich.edu/",
-      "area": "Optics & Photonics",
-      "studyType": "M.S. Electrical and Computer Engineering",
-      "startDate": "Aug.-2020",
-      "endDate": "Dec.-2021",
-      "score": "10",
-      "courses": ["<b>GPA</b>: 3.63/4.00",
-      "<b>Concurrent Activities</b>: Academic grader; 1 Summer Internship with NASA Glenn Research Center; Temporary Research Assitant at the School of Information",
-      "<b>Courses Taken</b>: Machine/Deep Learning, Nonlinear Optics, Optical Waves through Crystals, Quantum Optics, Applied Quantum Mechanics, Electron Microscopy, Lasers, Adv. Lasers Lab, Semiconductor Lasers and LEDs, Classical Optics"],
-      "logo": "michigan-logo.jpg"
+      "topic": "Software",
+      "header": "Programmming Languages",
+      "icon": "fa-solid fa-hashtag",
+      "items": [
+        "Python, MATLAB, Latex"
+      ]
     },
     {
-      "institution": "University of Alabama in Huntsville",
-      "location": "Huntsville, AL",
-      "url": "https://www.uah.edu/science/departments/physics",
-      "area": "",
-      "studyType": "M.S. Phsyics",
-      "startDate": "Aug.-2017",
-      "endDate": "Dec.-2019",
-      "score": "10",
-      "courses": ["<b>GPA</b>: 3.83/4.00",
-      "<b>Concurrent Activities</b>: Graduate Teaching and Research Assistant; 1 Summer Internship with NASA Glenn Research Center",
-      "<b>Courses Taken</b>: Statistical Mechanics, Fourier Optics, Classical Mechanics, Quantum Mechanics, Mathematical & Statistical Methods, Partial Differential Equations, Laser Physics, Lasers Lab, Physical Optics, Light Scattering by Particles, General Relativity"],
-      "logo": "uah-logo.png"
+      "topic": "Tools",
+      "header": "Libraries/Packages",
+      "icon": "fa-solid fa-hashtag",
+      "items": [
+        "PyTorch, Scikit-Learn, Pandas, NumPy, Plotly, Seaborn, Matpotlib, TensorFlow, FiftyOne"
+      ]
     },
     {
-      "institution": "Adrian College",
-      "location": "Adrian, MI",
-      "url": "https://www.adrian.edu/",
-      "area": "Minor in Mathematics",
-      "studyType": "B.S. Physics, B.S. Chemistry",
-      "startDate": "Aug.-2013",
-      "endDate": "Apr.-2017",
-      "score": "10",
-      "courses": ["<b>GPA</b>: 3.86/4.00",
-      "Graduated with <i>honors</i> status and <i>Summa Cum Laude</i>"],
-      "logo": "adrian-logo.png"
+      "topic": "Soft Skills",
+      "header": "Personal Attributes",
+      "icon": "fa-solid fa-hashtag",
+      "items": [
+        "Teaching, Critical/Deep Thinking, Leadership, Persistant Learner, Thoughtful Listener"
+      ]
     }
   ],
   "awards": [
@@ -165,75 +177,65 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Deep Learning Specialization",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": "/assets/pdf/Deep_Learning_Specialization_Certificate.pdf",
+      "icon": "fa-solid fa-book-open"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Applied Machine Learning in Python",
+      "date": "",
+      "issuer": "University of Michigan",
+      "url": "/assets/pdf/Applied_Machine_Learning_in_Python.pdf",
+      "icon": "fa-solid fa-book-open"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Applied Plotting, Charting, & Data Representation in Python",
+      "date": "",
+      "issuer": "University of Michigan",
+      "url": "/assets/pdf/Applied_Plotting_Charting_and_Data_Representation_Michigan.pdf",
+      "icon": "fa-solid fa-book-open"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Introduction to Data Science in Python",
+      "date": "",
+      "issuer": "University of Michigan",
+      "url": "/assets/pdf/Intro_to_Data_Science_in_Python.pdf",
+      "icon": "fa-solid fa-book-open"  
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Introduction to SQL",
+      "date": "",
+      "issuer": "University of Michigan",
+      "url": "/assets/pdf/Intro_to_SQL.pdf",
+      "icon": "fa-solid fa-book-open"
     }
   ],
-  "skills": [
+  "recent volunteering": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "interests": [
+      "organization": "Special Olympics Arizona",
+      "location": "Phoenix, AZ",
+      "position": "Volunteer with Fit Feet",
+      "url": "https://specialolympicsarizona.org/",
+      "startDate": "Aug.-2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Assisted the Arizona College of Podiatric Medicine in conducting foot and ankle health screenings during athletic events throughout each year",
+      "Guided podiatry student volunteers in effectively communicating with individuals with intellectual and developmental disabilities (IDD)"],
+      "logo": "special-olympics-logo.webp"
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "organization": "General Dynamics Mission Systems",
+      "location": "Scottsdale, AZ",
+      "position": "Intern Ambassador",
+      "url": "https://gdmissionsystems.com/careers/students-and-recent-graduates",
+      "startDate": "Summer-2024",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Currently supporting the GDMS internship program through mentorship, facility tours, and organizing team-building events",
+      "Presented on my work within the Quantum Engineering Center as well as my experiences in the GDMS Engineering Leadership Program"],
+      "logo": "gdms-logo.png"
     }
   ]
 }

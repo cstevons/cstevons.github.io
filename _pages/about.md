@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Physicist  |  Data Scientist
 
 profile:
   align: left
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: > # <p>555 your office number</p> <p>123 your address street</p> <p>Scottsdale, Arizona</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the pages
 ---

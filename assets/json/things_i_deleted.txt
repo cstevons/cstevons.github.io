@@ -46,3 +46,18 @@ From resume.json:
       "url": "https://example.com"
     }
   ]
+
+  "interests": [
+    {
+      "name": "Machine/Deep Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ]

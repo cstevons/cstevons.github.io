@@ -23,5 +23,5 @@ As a graduate student at the University of Michigan, I was hired as a Grader for
 ### **University of Alabama in Huntsville**
 
 - **Fall 2018**: PH114 *General Physics Lab I* (3 courses), PH110 *Frontiers in Science*
-- **Spring 2018**: PH115 *General Physics Lab* II (2 courses), PH114 *General Physics Lab I*
+- **Spring 2018**: PH115 *General Physics Lab* II (2 courses), PH114 *General Physics Lab I* (2 courses)
 - **Fall 2017**: PH114 *General Physics Lab I* (3 courses)

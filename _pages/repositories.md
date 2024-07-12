@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: I'm relatively new to GitHub/GitLab outside of my classified work environment, where I regularly contribute to the repos I'm a part of; however, I'm most enthusiastic to jumpstart my portfolio! My first project being this website! # Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users

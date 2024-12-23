@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physicist  |  Data Scientist
+subtitle: Software Engineer at GDMS
 
 profile:
   align: left
@@ -15,13 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the pages
 ---
 
-Welcome to my page! I’m an electrical engineer in the Engineering Leadership Program at General Dynamics Mission Systems (GDMS). Since 2022, I have been involved in diverse projects within space systems and communications. My work includes building lab prototypes for optical quantum communications technology, measuring and enhancing the performance of Rydberg atom-based RF sensors, and developing software using Python and MATLAB for machine learning models and data analysis in space programs.
+Welcome to my page! I’m a software engineer in the space defense industry at General Dynamics Mission Systems (GDMS). Since 2022, my work has included building lab prototypes for optical quantum communications technology, measuring and enhancing the performance of Rydberg atom-based RF sensors, and developing software using Python and MATLAB for machine learning and interactive data visualizations for space communications programs.
+
+I'm applying to Ph.D. programs! Broadly, I plan to merge my academic background in physics/optics with my professional background in software to research the intersection of scientific computing and AI/ML research. I plan to pursue a path guiding generative AI models, like diffusion, with known scientific principles. My goal is to create simulations and scenes rooted in the mathematical framework of physics rather than merely constructing realistic-looking outputs. This approach is critical for deploying generative models in scientific settings, particularly in medical imaging and digital twin development for increasingly complex engineering systems.
 
 Before joining GDMS, I earned a Master’s degree in Electrical and Computer Engineering from the University of Michigan (2020-2021) and earned a Master's degree in Physics at the University of Alabama in Huntsville (2017-2019). I've also held 2 internship positions with the [Space Communications and Navigation](https://www.nasa.gov/directorates/space-operations/space-communications-and-navigation-scan-program/) program at NASA Glenn Research Center, with a focus on Quantum Communications.
 
-Outside of my professional career, I spend most of my time further developing my skills in software and machine learning, supporting my wife as she excels through Podiatry school, or out on the roads running. Running has been a significant part of my life since 2012 and serves as both a venue for stress relief and competition. In recent years, I have focused my training on half and full marathons, including the [2024 Mesa Marathon](https://mesamarathon.com/).
-
-Since graduating, I have developed a deep passion for machine and deep learning, both professionally and personally. I have completed the [Deep Learning Specialization](/assets/pdf/Deep_Learning_Specialization_Certificate.pdf) by DeepLearning.AI, taken machine learning courses on Coursera, and worked through lecture videos and assignments from a [Computer Vision graduate course](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) at Michigan. Additionally, I am currently enrolled in a course provided by OpenCV. These experiences complement the machine learning tasks I perform in my current role at GDMS.
+Outside of work, I spend most of my time supporting my wife as she excels through Podiatry school, planning out the next national park to visit, or out on the roads running. Running is a significant part of my life, serving both as a stress reliever and competitive pursuit. In recent years, I have focused my training on half and full marathons, including the [Bayshore Marathon](https://www.bayshoremarathon.org/) and [Mesa Marathon](https://mesamarathon.com/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
